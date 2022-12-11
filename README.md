@@ -7,7 +7,7 @@ This is a web based application developed for Plants related based website in in
 
 **Project Link** - https://agreeable-sky-0f51dd000.2.azurestaticapps.net
 
-**project demo video link** - 
+**project demo video link** -  https://youtu.be/40Csqp85hNo
 
 ## Azure technologies used for Project
 
